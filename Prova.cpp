@@ -3,5 +3,9 @@
 using namespace std;
 
 int main() {
-  cout<<"ciao";
+	int A;  
+	cout<<"Inserisci A:"<<endl;
+	cin>>A;
+	cout<<A<<endl;
+	cout<<"ciao";
 }
